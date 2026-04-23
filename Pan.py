@@ -12,3 +12,6 @@ preco = df["Preco"]
 
 print("--- Apenas os Preços ---")
 print(preco)
+
+nome_primeira_Empresas = df["Empresas"].iloc[0]
+print(f"A primeira empresa na lista é: {nome_primeira_Empresas}")
