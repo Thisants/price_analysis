@@ -1,7 +1,3 @@
-empresa_x = 630.00
-empresa_y = 430.59
-empresa_z = 500.00
-
 empresas = {
     "Empresa X": empresa_x,
     "Empresa Y": empresa_y,
